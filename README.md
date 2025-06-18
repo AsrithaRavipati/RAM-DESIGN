@@ -20,3 +20,9 @@ APPLICATIONS: Cache Memory, Main Memory, Embedded Systems, FPGA Implementation.
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/1144b090-9997-427d-b570-9fd63544e35e)
+
+![Image](https://github.com/user-attachments/assets/fc8479f3-3604-4f2b-ab5e-9c2445bc02ca)
+
+![Image](https://github.com/user-attachments/assets/234e4b43-8950-42c8-8e86-c601d43bb373)
+
